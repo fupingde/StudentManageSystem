@@ -1,0 +1,2 @@
+# StudentManageSystem
+一个学生信息管理系统，通过注册和登录使用增删改查等功能
